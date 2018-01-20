@@ -3,7 +3,7 @@
 const crypto = require('crypto');
 const url    = require('url');
 const async  = require('async');
-const uuid   = require('node-uuid');
+const uuid   = require('uuid');
 const http   = require('superagent');
 const _      = require('lodash');
 require('bitcoin-math');
