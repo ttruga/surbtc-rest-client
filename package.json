@@ -1,6 +1,6 @@
 {
   "name": "surbtc-rest-client",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Node.js client library for interacting with surbtc REST API.",
   "main": "./index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/dinex/surbtc-rest-client"
+    "url": "https://bitbucket.org/ttruga/surbtc-rest-client"
   },
   "keywords": [
     "remittance",
@@ -16,10 +16,10 @@
     "http",
     "client"
   ],
-  "author": "Dinex SPA",
+  "author": "Pablo Castro",
   "license": "MIT",
   "bugs": {
-    "url": "https://bitbucket.org/dinex/surbtc-rest-client/issues"
+    "url": "https://bitbucket.org/ttruga/surbtc-rest-client/issues"
   },
   "dependencies": {
     "async": "^2.0.1",
@@ -33,7 +33,7 @@
     "chai": "^2.1.2",
     "mocha": "^2.2.1"
   },
-  "homepage": "https://bitbucket.org/dinex/surbtc-rest-client",
+  "homepage": "https://bitbucket.org/ttruga/surbtc-rest-client",
   "directories": {
     "test": "test"
   }
